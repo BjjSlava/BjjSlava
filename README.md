@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">A beginner developer from Ukraine. I'm a professional ballet director with 10 years of teaching choreography. I noticed an interest in IT when I realised that my own dance school needed a website for development. After that, I started delving into design and development. Let's see what comes of it.:)</h3>
+<h3 align="center">A beginner developer from Ukraine. I'm a professional ballet director with 10 years of teaching choreography. I noticed an interest in IT when I realized that my own dance school needed a website for development. After that, I started delving into design and development. Let's see what comes of it.:)</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
